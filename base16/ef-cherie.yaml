@@ -1,0 +1,21 @@
+system: "base16"
+name: "EF Cherie"
+author: "Jörg Grund; Protesialos Stavrou (https://protesilaos.com)"
+variant: "dark"
+palette:
+base00: "#190a0f"   # bg-main (Main background)
+base01: "#291f26"   # bg-dim (Dim background)
+base02: "#392a2f"   # bg-alt (Alternate background)
+base03: "#808898"   # fg-dim (Dim foreground)
+base04: "#bf9cdf"   # fg-alt (Alternate foreground)
+base05: "#d3cfcf"   # fg-main (Main foreground)
+base06: "#ffffff"   # fg-intense (Intense foreground, bright)
+base07: "#ffcfdf"   # Mode-line foreground (to use for light accents)
+base08: "#ff7359"   # Red (Errors, critical alerts)
+base09: "#ea9955"   # Yellow-warmer (Warnings)
+base0A: "#e5b76f"   # Yellow (General highlights)
+base0B: "#60b444"   # Green (Success, added content)
+base0C: "#8fbaef"   # Cyan (Info, subtle highlights)
+base0D: "#8fa5f6"   # Blue (Information, links)
+base0E: "#ef80bf"   # Magenta (Special or standout elements)
+base0F: "#72002a"   # bg-red-subtle (Deleted content or danger zones)
